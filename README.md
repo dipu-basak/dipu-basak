@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipu-basak
 - 👀 I’m interested in Cyber Security and Web Technologies
-- 🌱 I’m currently learning Web Apps Pentesting
+- 🌱 I’m currently learning Web Apps Pentesting and Bug bounty
 - 💞️ I’m looking to collaborate on Resarch,CTF and more...
 - 📫 How to reach me contact.dipubasak@gmail.com
 - 😄 Pronouns: He/Him
