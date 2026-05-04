@@ -3,13 +3,17 @@
 ```
     0xBASAK
    ═════════════════════════════════
-   🛡️  CYBERSECURITY RESEARCHER  🛡️
+   🛡️ CYBERSECURITY, BACKEND
+          & all those geeky things  🛡️
    ═════════════════════════════════
 ```
 
-  <b>🛡️ Cybersecurity Enthusiast | 💻 Web Technologies | 🔐 Bug Bounty Hunter</b>
+  <b>CS Student | CyberSec Enthusiast | CCEP | White Hat Hacker | Bug Hunter | CTF Player | Asst. Writer @ FEB</b>
   
-  <p><em>"They think I'm hiding in the shadows. But I am the shadows."</em> — Me, probably</p>
+  <p><em>"They think I'm hiding in the shadows. But I am the shadows.I am Batman"</em> — Nah, I'm kidding.</p>
+  <p>Hey everyone, this is <b><em>Dipu Basak</em></b> aka <b><em>0xbasak, </em></b> undergrad student of <em><b> Dept. of Computer Science & Engineering </b> </em> at <b>North Western University.</b>
+  Exploring the world of <em><b>CyberSecurity, API, Backend Development</b></em> and so on, and Asst. Writter at <em><b> Folklore Expedition Bangladesh
+  </p>
 </div>
 
 ---
